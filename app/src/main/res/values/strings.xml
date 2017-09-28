@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="party_in_gradle">All the party is in the build.gradle files!</string>
+    <string name="not_much_here">Not much here...</string>
+</resources>
